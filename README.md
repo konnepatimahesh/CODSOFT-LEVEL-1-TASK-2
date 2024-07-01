@@ -8,7 +8,7 @@ Domain : Web Development
 
 Duration : 20 june to 20 july,2024
 
-# overview of the project #
+# overview of the portfolio #
 
 # objectives #
 
